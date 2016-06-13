@@ -23,6 +23,7 @@ int main(int argc, char** argv) {
     cout << "できるかな" << endl;
     cout << "できないな" << endl;
     cout << "やっぱ無理" << endl;
+    cout << "あれ?できた？" << endl;
 
     return 0;
 }
